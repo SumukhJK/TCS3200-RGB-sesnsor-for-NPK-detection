@@ -16,7 +16,7 @@ int blueLed = 13;
 
 void setup() {
 
-    Serial.begin(9600); // Change the baud rate to 9600
+    Serial.begin(9600); // Set the baud rate to 9600
 
     pinMode(S0, OUTPUT);
 
